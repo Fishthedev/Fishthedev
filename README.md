@@ -32,3 +32,4 @@
 </div>
 
 ###
+[![Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214)](https://discord.com/users/1221798812037681214)
