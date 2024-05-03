@@ -6,6 +6,8 @@
 <p align="center">
   [Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214?showDisplayName=true&idleMessage=Doing+nothing)](https://discord.com/users/1221798812037681214)
 </p>
+[Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214?showDisplayName=true&idleMessage=Doing+nothing)](https://discord.com/users/1221798812037681214)
+</p>
 -----
 ###
 <h3 align="center">Languages</h3>
