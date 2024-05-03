@@ -3,9 +3,9 @@
 ###
 -----
 ###
-<div align="center">
+<p align="center">
   [![Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214?showDisplayName=true&idleMessage=Doing+nothing)](https://discord.com/users/1221798812037681214)
-</div>
+</p>
 -----
 ###
 <h3 align="center">Languages</h3>
