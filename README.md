@@ -4,7 +4,7 @@
 -----
 ###
 <div align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214)](https://discord.com/users/1221798812037681214)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214?showDisplayName=true&idleMessage=Doing+nothing)](https://discord.com/users/1221798812037681214)
 </div>
 -----
 ###
