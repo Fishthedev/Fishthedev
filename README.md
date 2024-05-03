@@ -2,15 +2,16 @@
 
 ###
 -----
-[![Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214)](https://discord.com/users/1221798812037681214)
+<div align="center">
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214)](https://discord.com/users/1221798812037681214)
+</div>
 -----
 ###
-
-<h3 align="left">Languages</h3>
-
+<h3 align="center">Languages</h3>
+-----
 ###
-
-<div align="left">
+-----
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
