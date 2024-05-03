@@ -3,7 +3,12 @@
 ###
 -----
 ###
-[![Discord Presence](https://lanyard.cnrad.dev/api/1221798812037681214?showDisplayName=true&idleMessage=Doing+nothing)](https://discord.com/users/1221798812037681214)
+<div align="center">
+  <a href="https://discord.com/users/1221798812037681214">
+    <img src="https://lanyard.cnrad.dev/api/1221798812037681214?showDisplayName=true&idleMessage=Doing+nothing" alt="Discord Presence">
+  </a>
+</div>
+
 -----
 ###
 <h3 align="center">Languages</h3>
